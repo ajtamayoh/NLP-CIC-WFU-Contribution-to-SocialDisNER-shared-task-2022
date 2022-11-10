@@ -10,7 +10,9 @@ Alexander Gelbulkh (gelbukh@gelbukh.com)
 
 For bugs or questions related to the code, do not hesitate to contact us (Antonio Tamayo: ajtamayoh@gmail.com)
 
-If you use this code please cite our work: comming soon.
+If you use this code please cite our work:
+
+Tamayo, A., Gelbukh, A., & Burgos, D. A. (2022, October). Nlp-cic-wfu at socialdisner: Disease mention extraction in spanish tweets using transfer learning and search by propagation. In Proceedings of The Seventh Workshop on Social Media Mining for Health Applications, Workshop & Shared Task (pp. 19-22).
 
 ## Abstract
 
